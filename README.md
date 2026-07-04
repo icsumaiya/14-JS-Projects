@@ -38,5 +38,3 @@ This repository contains **14 interactive mini-projects** developed as part of m
 
 ---
 
-## 📝 Submission Note
-This project is submitted in accordance with the requirements of the Module 4 Lab Assignment. All source code is organized into individual project directories for clarity and modularity.
