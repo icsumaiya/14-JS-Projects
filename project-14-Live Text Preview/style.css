@@ -1,0 +1,26 @@
+body { 
+    font-family: sans-serif;
+    display: flex;
+    justify-content: center;
+    margin-top: 50px;
+}
+.main-wrapper {
+    text-align: center;
+    width: 300px;
+}
+input {
+    background-color: rgb(200, 233, 193);
+    border-radius: 10px;
+    width: 100%;
+    padding: 10px;
+    margin-bottom: 20px;
+    box-sizing: border-box;
+}
+.output-box {
+    padding: 15px;
+    border: 2px dashed #333;
+    border-radius: 8px;
+}
+#displayArea {
+    color: #555;
+}

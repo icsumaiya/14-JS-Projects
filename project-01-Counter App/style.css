@@ -1,0 +1,21 @@
+.container {
+    text-align: center; 
+    margin-top: 50px; 
+}
+h1 {
+    font-size: 50px;
+    background-color: #ffe4c4;
+    border: #e5c297;
+    border-radius: 40px;
+}
+button { 
+    background-color: #ffe4c4;
+    border-radius: 8px;
+    padding: 10px 20px; 
+    font-size: 16px; 
+    cursor: pointer; 
+}
+button:hover{
+    background-color: #f4b567;
+
+}

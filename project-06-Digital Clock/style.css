@@ -1,0 +1,13 @@
+.clock-wrapper { 
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    font-family: 'Courier New', Courier, monospace;
+    background-color:bisque;
+
+}
+#timeOutput {
+    font-size: 80px;
+    color: #333;
+}

@@ -1,0 +1,14 @@
+.calculator-box { 
+    margin: 50px auto; 
+    text-align: center; 
+    font-family: Arial; 
+}
+input, button { 
+    padding: 10px; 
+    margin: 5px;
+    background-color: rgb(235, 202, 216);
+    color: rgb(100, 69, 7);
+    border: snow;
+    border-radius: 0px 12px;
+    
+}

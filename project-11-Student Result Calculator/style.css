@@ -1,0 +1,21 @@
+.result-box {
+    text-align: center;
+    margin-top: 40px;
+}
+input {
+    display: block;
+    margin: 10px auto;
+    padding: 8px;
+    background-color: rgb(245, 239, 231);
+
+}
+button {
+    border-radius: 10px;
+    background-color: antiquewhite;
+    padding: 10px 20px;
+    cursor: pointer;
+}
+#outputDisplay {
+    margin-top: 20px;
+    font-weight: bold;
+}

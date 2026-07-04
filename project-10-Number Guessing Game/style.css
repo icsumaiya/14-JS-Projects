@@ -1,0 +1,16 @@
+.game-container {
+    text-align: center;
+    margin-top: 50px;
+}
+input {
+    padding: 10px;
+    width: 150px;
+}
+button {
+    padding: 10px 20px;
+    cursor: pointer;
+}
+#message {
+    margin-top: 20px;
+    font-weight: bold;
+}

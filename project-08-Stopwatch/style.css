@@ -1,0 +1,13 @@
+.timer-box {
+    text-align: center;
+    margin-top: 50px;
+    font-family: sans-serif;
+}
+button {
+    padding: 8px 15px;
+    cursor: pointer;
+    margin: 5px;
+    background-color: brown;
+    border-radius: 12px;
+    color: #fff;
+}
